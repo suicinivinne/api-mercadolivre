@@ -1,6 +1,10 @@
 
 Esta biblioteca tem como objetivo facilitar a impletamentação da API do Marketplace MERCADO LIVRE e utilização dos seus recursos
 
+## CRIE UMA NOVA APLICAÇÃO / CREATE A NEW APPLICATION
+https://developers.mercadolivre.com.br/devcenter/
+
+
 ## USO
 
 ### GERAR ACCESS TOKEN / GENERATE ACCESS TOKEN
